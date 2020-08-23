@@ -8,6 +8,6 @@ A basic made using basic html,css, and javaScript <br>
   <li>Icons Used : https://github.com/manifestinteractive/weather-underground-icons</li>
 </ul>
 link to the app : https://ankit404.github.io/weatherApp/<br>
-Many many thanks to Graphic Designer <b>Ashley Jager</b> for his Icons & to <b>Code Explained</b>for his content
+Many many thanks to Graphic Designer <b>Ashley Jager</b> for his Icons & to <b>Code Explained</b> for his content
 
 
