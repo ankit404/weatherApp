@@ -1,5 +1,5 @@
 # weatherApp
-A basic made using basic html,css, and javaScript <br>
+A basic made using html, css and javaScript <br>
 <ul>
   <li>Made on Windows 10 Machine</li>
   <li>Browser : Google Chrome</li>
