@@ -8,7 +8,7 @@ A basic app made using html, css and javaScript <br>
   <li>API Provider : https://openweathermap.org/api</li>
   <li>Icons Used : https://github.com/manifestinteractive/weather-underground-icons</li>
 </ul>
-link to the app : https://ankit404.github.io/weatherApp/<br>
+[Weather App](https://ankit404.github.io/weatherApp/)<br>
 Many many thanks to Graphic Designer <b>Ashley Jager</b> for his Icons & to <b>Code Explained</b> for his content
 
 
