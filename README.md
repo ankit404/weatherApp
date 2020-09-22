@@ -9,6 +9,6 @@ A basic app made using html, css and javaScript <br>
   <li>Icons Used : https://github.com/manifestinteractive/weather-underground-icons</li>
 </ul>
 Weather App:https://ankit404.github.io/weatherApp/<br>
-Many many thanks to Graphic Designer <b>Ashley Jager</b> for his Icons & to <b>Code Explained</b> for his content
+Many many thanks to Graphic Designer <b>Ashley Jager</b> for his Icons & to [Code Explained](https://www.youtube.com/channel/UC8n8ftV94ZU_DJLOLtrpORA) for his content
 
 
