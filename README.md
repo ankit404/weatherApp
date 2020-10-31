@@ -1,4 +1,4 @@
-# WeatherApp
+# Weather_App
 A basic app made using html, css and javaScript <br>
 <ul>
   <li>Made on Windows 10 Machine</li>
