@@ -75,6 +75,9 @@ body {
 .temperature-value p:hover {}
 
 .temperature-value span {
+
+}
+.temperature-value span {
     color: #293251;
     font-size: 0.5em;
 }
