@@ -97,4 +97,10 @@ body {
     color: #293251;
     text-align: center;
     font-size: 0.8em;
+    .location p {
+    margin: 0.0;
+    padding: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 0.8em;
 }
